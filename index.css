@@ -1,0 +1,17 @@
+body {
+background:linear-gradient(to rite,
+rgba(10,250,0,0),
+rbga(10,250,0,1));
+padding-top: 10px;
+padding-left: 10px;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+p{
+    text-align: left;
+    font-size: 14px;
+    font-weight: bold;
+    color: green;
+}
